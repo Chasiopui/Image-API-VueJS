@@ -14,10 +14,5 @@ export default new Router({
       name: 'Store',
       component: Store
     },
-    // {
-    //   path: '/store',
-    //   name: 'Store',
-    //   component: Store
-    // }
   ]
 })

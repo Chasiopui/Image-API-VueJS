@@ -3,6 +3,66 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  margin: auto;
+  width: auto;
+  // color: #2c3e50;
+  // margin-top: 60px;
+}
+
+#product-image {
+  text-align: center;
+  width: fit-content;
+  margin: 5px;
+  border: 7px solid gray;
+  // box-sizing: border-box;
+  // display: block;
+}
+
+body
+{
+  background-color: ghostwhite;
+}
+
+.product-name {
+  margin: 0 5px;
+  text-align: left;
+  font-size: large;
+  font-weight: bold;
+}
+
+.product-price {
+  margin: 0 5px;
+  text-align: left;
+}
+
+// .product-add {
+//   text-align: right;
+// }
+
+hr.solid {
+  border-top: 7px solid gray;
+  width: 90%;
+  text-align: center;
+}
+
+.cart-header {
+  width: auto;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.table-cart {
+  margin: 20px auto;
+  width: 80% !important; 
+  padding: 5%;
+  height:90%;
+  width:100%;
+}
+
+.table-cart img{
+  max-width: 40%;
+  max-height: 40%;
+  // display: block;
+  text-align: center;
 }
