@@ -1,4 +1,4 @@
-# vueapp
+# Vue-Image-App
 
 ## Project setup
 ```
